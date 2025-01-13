@@ -95,13 +95,13 @@ class _LoginScreenState extends State<LoginScreen> {
                 children: [
                   const SizedBox(height: 40),
                   Icon(
-                    Icons.meeting_room_outlined,
+                    Icons.event_seat,
                     size: 64,
                     color: Theme.of(context).primaryColor,
                   ),
                   const SizedBox(height: 24),
                   Text(
-                    'Bem-vindo!',
+                    'Seja Bem-vindo!',
                     style: TextStyle(
                       fontSize: 28,
                       fontWeight: FontWeight.bold,
@@ -123,7 +123,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     controller: _emailController,
                     decoration: InputDecoration(
                       labelText: 'Email',
-                      hintText: 'seu@email.com',
+                      hintText: 'seu melhor @email.com',
                       prefixIcon:
                       Icon(Icons.email_outlined, color: Colors.grey[600]),
                       border: OutlineInputBorder(

@@ -1,6 +1,3 @@
-//Obs: para acessar o painel de administrador basta fazer login usando um email que está cadastrado como admin
-//Um dos emails de administrador é "admin@email.com" e a senha é "123456", com ele o painel de adm fica disponivel na profile screen
-//No painel de administrador é possível tornar qualquer outro usuario cadastrado administrador, gerenciar usuarios, ver logs, gerenciar os espaços e gerenciar reservas
 
 import 'package:flutter/material.dart';
 import '../services/auth_service.dart';
