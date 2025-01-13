@@ -42,18 +42,18 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyDZPHf5ebqXzTIb297ag_TKYCHhNR5ybmA',
-    appId: '1:193365538369:web:d4dba7d336eae6deb6b8c0',
+    appId: '1:193365538369:web:8d004eabe8b1e2f6b6b8c0',
     messagingSenderId: '193365538369',
     projectId: 'reservas-396d3',
     authDomain: 'reservas-396d3.firebaseapp.com',
     databaseURL: 'https://reservas-396d3-default-rtdb.firebaseio.com',
     storageBucket: 'reservas-396d3.firebasestorage.app',
-    measurementId: 'G-DP7026CC1Q',
+    measurementId: 'G-PXB9B7P7LJ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyD80NLdaZpVfTbMi6_Nj88CDVcfh959XUg',
-    appId: '1:193365538369:android:81770f351077de6cb6b8c0',
+    appId: '1:193365538369:android:8658f0016539b9d8b6b8c0',
     messagingSenderId: '193365538369',
     projectId: 'reservas-396d3',
     databaseURL: 'https://reservas-396d3-default-rtdb.firebaseio.com',
@@ -62,33 +62,35 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBrj_JsoZSyz6u4_YJjiYi7dFjTBGivTek',
-    appId: '1:193365538369:ios:2c5be2e4c2b0dd47b6b8c0',
+    appId: '1:193365538369:ios:57f1213865bde254b6b8c0',
     messagingSenderId: '193365538369',
     projectId: 'reservas-396d3',
     databaseURL: 'https://reservas-396d3-default-rtdb.firebaseio.com',
     storageBucket: 'reservas-396d3.firebasestorage.app',
-    iosBundleId: 'com.example.reserve',
+    iosClientId: '193365538369-uccf10viujmtfqodmsrtvpueg4g1h9v4.apps.googleusercontent.com',
+    iosBundleId: 'com.example.reserva',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyBrj_JsoZSyz6u4_YJjiYi7dFjTBGivTek',
-    appId: '1:193365538369:ios:2c5be2e4c2b0dd47b6b8c0',
+    appId: '1:193365538369:ios:57f1213865bde254b6b8c0',
     messagingSenderId: '193365538369',
     projectId: 'reservas-396d3',
     databaseURL: 'https://reservas-396d3-default-rtdb.firebaseio.com',
     storageBucket: 'reservas-396d3.firebasestorage.app',
-    iosBundleId: 'com.example.reserve',
+    iosClientId: '193365538369-uccf10viujmtfqodmsrtvpueg4g1h9v4.apps.googleusercontent.com',
+    iosBundleId: 'com.example.reserva',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyDZPHf5ebqXzTIb297ag_TKYCHhNR5ybmA',
-    appId: '1:193365538369:web:8d004eabe8b1e2f6b6b8c0',
+    appId: '1:193365538369:web:b19a2b897053f6aab6b8c0',
     messagingSenderId: '193365538369',
     projectId: 'reservas-396d3',
     authDomain: 'reservas-396d3.firebaseapp.com',
     databaseURL: 'https://reservas-396d3-default-rtdb.firebaseio.com',
     storageBucket: 'reservas-396d3.firebasestorage.app',
-    measurementId: 'G-PXB9B7P7LJ',
+    measurementId: 'G-43E936MHFV',
   );
 
 }

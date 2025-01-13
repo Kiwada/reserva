@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "193365538369",
+    "firebase_url": "https://reservas-396d3-default-rtdb.firebaseio.com",
+    "project_id": "reservas-396d3",
+    "storage_bucket": "reservas-396d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193365538369:android:8658f0016539b9d8b6b8c0",
+        "android_client_info": {
+          "package_name": "com.example.reserva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193365538369-ogpgdjg77ud7c6i4fb10lqqkgo665dde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80NLdaZpVfTbMi6_Nj88CDVcfh959XUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193365538369-ogpgdjg77ud7c6i4fb10lqqkgo665dde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193365538369-oh75c6pvhoqne4bbdqgsq21anbeo5csb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reserve"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193365538369:android:81770f351077de6cb6b8c0",
+        "android_client_info": {
+          "package_name": "com.example.reserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193365538369-ogpgdjg77ud7c6i4fb10lqqkgo665dde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80NLdaZpVfTbMi6_Nj88CDVcfh959XUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193365538369-ogpgdjg77ud7c6i4fb10lqqkgo665dde.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193365538369-oh75c6pvhoqne4bbdqgsq21anbeo5csb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reserve"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
